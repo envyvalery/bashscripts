@@ -1,2 +1,2 @@
 # bashscripts
-a few bashscripts to practivce bash scripting on 
+a few bash scripts to practice bash scripting on 
